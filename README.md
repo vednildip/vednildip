@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vednildip
-- 👀 I’m interested in stepper  control  
-- 🌱 I’m currently learning CNC shield 
-- 💞️ I’m looking to collaborate on C++/G Code/ESP
+- 👀 Completed project ESP NOW, Bluetooth, UDP :-  ESPCAM  to Other ESP TFT seamless trasfer of images  
+- 🌱 Completed Project on  BT Sink  & Source  , Mp3 player , MiniTv 
+- 💞️ I’m looking for miles to go on C++/G Code/ESP  before I sleep. Adopted  this as Hobby  
 - 📫 How to reach me nilesh259@gmail.com 
 
 <!---
